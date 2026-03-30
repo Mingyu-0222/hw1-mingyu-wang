@@ -1,12 +1,12 @@
 # HW1 Mingyu Wang
 
-This repository is for my coding assistant onboarding assignment. It shows how I used Codex to create a draft file, edited the final version manually, and tracked the process using GitHub.
+This repository is for my coding assistant onboarding assignment. It shows how I used Codex to generate a draft, manually edited the final version, and tracked the process using GitHub.
 
 ## Git steps used
 - Initialized a local Git repository
-- Created the required files
+- Created README.md, assistant_draft.md, and final_version.md
 - Committed the repository setup
-- Used Codex to create assistant_draft.md
+- Used Codex to generate assistant_draft.md
 - Manually edited final_version.md
 - Updated README.md and pushed all commits
 
@@ -17,4 +17,4 @@ This repository is for my coding assistant onboarding assignment. It shows how I
 - final README update with video link
 
 ## Video
-(Paste your unlisted YouTube link here)
+(https://youtu.be/L4iOBg_jWnI)
