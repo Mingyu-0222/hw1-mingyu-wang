@@ -1,20 +1,31 @@
-# Introduction and Interests
+# Mingyu Wang
 
-Hi, my name is Mingyu Wang. I am currently studying Management and Analysis at Johns Hopkins University. I have a background in Applied Mathematics and Statistics and Economics. I am interested in business analysis, strategy, and using data to support decision making.
+My name is Mingyu Wang. I am currently studying Management and Analysis at Johns Hopkins University. I have a background in Applied Mathematics and Statistics and Economics.
 
-I am particularly interested in how businesses use data and AI to improve decision making and performance. This includes areas such as market analysis, financial analysis, and strategy development in technology driven industries.
+I am interested in business analysis, strategy, and data driven decision making, especially in technology or AI related business settings. I care about how companies can use data to make better choices, improve performance, and respond to change more effectively.
 
-Generative AI can be useful in this area in several ways:
-- It can help automate data analysis and generate insights from large datasets.
-- It can support business decision making by summarizing complex information.
-- It can improve efficiency by assisting with report writing and communication.
+- Generative AI can help summarize market research, reports, and business data more quickly.
+- It can support strategy work by helping compare options and identify trends or patterns.
+- It can improve communication by assisting with presentations, reports, and decision memos.
 
 ## Note
-Prompt used:
-Please create content for assistant_draft.md with a title, self introduction, one paragraph about interests, and 3 bullet points about generative AI.
+Exact prompt used:
+"Please create content for assistant_draft.md.
+
+Requirements:
+1. Add a short title.
+2. Add one short paragraph introducing me. My name is Mingyu Wang. I am currently studying Management and Analysis at Johns Hopkins University. I have a background in Applied Mathematics and Statistics and Economics.
+3. Add one short paragraph describing an industry, function, or problem area I care about. I am interested in business analysis, strategy, and data driven decision making, especially in technology or AI related business settings.
+4. Add a short bullet list of 3 ways generative AI might be useful in that area.
+5. At the bottom of assistant_draft.md, add a short note including:
+   - the exact prompt used
+   - one or two sentences on what the assistant did well
+   - one or two sentences on what needed clarification or adjustment
+
+Please use simple plain English and save everything into assistant_draft.md."
 
 What the assistant did well:
-The assistant clearly structured the content and followed the instructions.
+The assistant followed the requested structure and used simple plain English. It also included the main points about your background, interests, and ways generative AI could help.
 
-What needed adjustment:
-Some parts were too general and needed to be more personalized.
+What needed clarification or adjustment:
+The original draft needed to match your stated interests more closely, especially the focus on technology or AI related business settings. The note also needed to include the exact full prompt rather than a shortened version.
