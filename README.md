@@ -17,4 +17,4 @@ This repository is for my coding assistant onboarding assignment. It shows how I
 - final README update with video link
 
 ## Video
-https://youtu.be/iAJafjmAsFA
+https://youtu.be/0SnVAs_GvEI
